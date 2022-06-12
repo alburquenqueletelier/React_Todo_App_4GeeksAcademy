@@ -1,0 +1,15 @@
+.form-control{
+    max-width: 400px;
+}
+
+.task-list {
+    max-width: 800px;
+    align-self: center;
+    margin: 0 auto;
+    margin-top: 10px;
+    position: relative;;
+}
+
+.list-group-item:hover {
+    box-shadow: 0 0 9px 4px #747DE8;
+}
